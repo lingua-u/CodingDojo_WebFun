@@ -1,2 +1,2 @@
-# CodingDojo-Web_Fun
-Web Fundmentals bootcamp projects
+# CodingDojo-WebFun-JSBasics
+Bootcamp Week 2: HTML, CSS Exercise
