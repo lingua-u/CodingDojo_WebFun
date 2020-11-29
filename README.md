@@ -1,2 +1,3 @@
-# CodingDojo-WebFun-JSBasics
-Bootcamp Week 2: HTML, CSS Exercise
+# CodingDojo_WebFun
+
+Bootcamp Weeks 2 - 4: HTML, CSS, JavaScript, JQuery 
