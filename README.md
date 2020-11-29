@@ -6,8 +6,6 @@
 
 **fakeblog.html, sw.png** - HTML practice with blog for actor Sam Worthington. "Create a fake blog using only HTML."
 
-**indentation.html** - Correct indentation practice. "Please fix this very ugly code!"
-
 **p-index.html, p-style.html** - CSS Portfolio practice. "Break down the image into proper HTML and CSS."
 
 **registration.html** - Forms practice. "Recreate all the HTML elements shown on the reference image!" 
