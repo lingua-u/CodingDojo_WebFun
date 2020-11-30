@@ -4,6 +4,8 @@
 
 **JSB.html, JSB.css** - CSS practice. "Recreate the image using only what you've learned about HTML and CSS."
 
+**algorithms-part1.js** - Algorithm solutions.
+
 **fakeblog.html, sw.png** - HTML practice with blog for actor Sam Worthington. "Create a fake blog using only HTML."
 
 **p-index.html, p-style.html** - CSS Portfolio practice. "Break down the image into proper HTML and CSS."
